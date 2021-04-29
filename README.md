@@ -18,3 +18,4 @@ Trigger a build
 Trigger a build on 27-Apr-2021
 
 Trigger a build in Jenkins on 29-Apr-2021
+Trigger a build in Jenkins on 29-Apr-2021 15:00 Central
